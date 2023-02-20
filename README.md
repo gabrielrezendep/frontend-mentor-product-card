@@ -1,2 +1,30 @@
-# frontend-mentor-product-card
-Desafio do Front-End Mentor, de criar um card de venda de perfume o mais próximo do original.
+# Frontend Mentor - NFT preview card component solution
+
+Resolução do desafio do Front-End Mentor.
+
+## Visão geral
+
+### O Desafio
+
+Criar o site de maneira bem próxima ao design original, e com suas devidas estilizações.
+
+Os usuários devem ter o poder de:
+
+- Visualizar o layout ideal dependendo do tamanho da tela do dispositivo.
+- Interações com o site para elementos interativos.
+
+## Meu processo
+
+### Construído com
+
+- HTML5 Semântico
+- CSS3
+
+### O que aprendi
+
+Aprendi a criar pequenas estilizações ao passar o mouse sobre determinados elementos, e alinhar ícones corretamente.
+
+## Autor
+
+- LinkedIn - Gabriel Rezende (https://https://www.linkedin.com/in/gabriel-rezende-1130b6224/)
+- GitHub - gabrielrezendep (https://github.com/gabrielrezendep)
