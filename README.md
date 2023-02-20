@@ -22,7 +22,7 @@ Os usuários devem ter o poder de:
 
 ### O que aprendi
 
-Aprendi a criar pequenas estilizações ao passar o mouse sobre determinados elementos, e alinhar ícones corretamente.
+Alinhamento das imagens, estilizações de elementos clicáveis.
 
 ## Autor
 
